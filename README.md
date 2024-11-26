@@ -10,7 +10,7 @@
         <li><strong>User-Friendly Interface:</strong> Clean design with an intuitive layout.</li>
     </ul>
 <br><br>
-![QuizApp](quizapp.png)
+    <img src="quizapp.png" alt="Quiz Application Screenshot" style="max-width:100%; height:auto;">
 <br>    
 <h2>How to Use</h2>
     <ol>
